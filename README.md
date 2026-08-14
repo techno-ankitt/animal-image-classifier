@@ -2,8 +2,6 @@
 
 An image classification project that identifies animal photos as one of six categories — **Dog, Cat, Elephant, Horse, Butterfly, or Spider** — using Transfer Learning, and serves predictions through a live web app.
 
-Built as a 7th semester minor project.
-
 ## 🎯 Result
 
 **98% accuracy** on 3,515 held-out validation images across 6 classes.
